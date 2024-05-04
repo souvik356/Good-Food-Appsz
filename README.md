@@ -1,8 +1,9 @@
-# React + Vite
+🚀🚀GOOD-FOOD Application🚀🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an Food-delivery application named as GOOD-FOOD😊. I made it using popular JavaScript library famously known as React-Js. I also used tailwind-css for styling my applications . For routing I used react-router-dom to route from one page to another (React follows the principle of Single-page-Application). For state management i.e. passing data I have used Redux-toolkit along with React-Redux.
 
-Currently, two official plugins are available:
+Please check this Application, I am to open to feedbacks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thank you..
+
+
